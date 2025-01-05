@@ -1,0 +1,16 @@
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\app1.fmcalculatrice.resources
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\app1.vbproj.GenerateResource.cache
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\app1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\app1.AssemblyInfoInputs.cache
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\app1.AssemblyInfo.vb
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\app1.vbproj.CoreCompileInputs.cache
+C:\Users\Demotech Info\Desktop\programmation even\app1\bin\Debug\net8.0-windows\app1.exe
+C:\Users\Demotech Info\Desktop\programmation even\app1\bin\Debug\net8.0-windows\app1.deps.json
+C:\Users\Demotech Info\Desktop\programmation even\app1\bin\Debug\net8.0-windows\app1.runtimeconfig.json
+C:\Users\Demotech Info\Desktop\programmation even\app1\bin\Debug\net8.0-windows\app1.dll
+C:\Users\Demotech Info\Desktop\programmation even\app1\bin\Debug\net8.0-windows\app1.pdb
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\app1.dll
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\refint\app1.dll
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\app1.pdb
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\app1.genruntimeconfig.cache
+C:\Users\Demotech Info\Desktop\programmation even\app1\obj\Debug\net8.0-windows\ref\app1.dll
